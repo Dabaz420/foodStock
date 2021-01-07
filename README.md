@@ -11,4 +11,4 @@
 <p>INSERT INTO `stock` (`id`,`id_alim`, `stock`) VALUES (NULL,'id_de_l_aliment', 'le_stock');</p>
 
 <h3>Pour la table assoc_aliments</h3>
-<p>INSERT INTO `assoc_aliments` (`id`, `id_alim`,`id_type`,`id_saison`) VALUES (NULL, 'id_d_un_aliment', 'id_du_stock', 'id_du_type', 'id_de_la_saison');</p>
+<p>INSERT INTO `assoc_aliments` (`id`, `id_alim`,`id_type`,`id_saison`) VALUES (NULL, 'id_d_un_aliment', 'id_du_type', 'id_de_la_saison');</p>
